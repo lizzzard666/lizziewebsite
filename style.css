@@ -1,4 +1,10 @@
 body {
-    
+    background-image: url(gradient.jpg);
     background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color:blueviolet;
+    
 }
